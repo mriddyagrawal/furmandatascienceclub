@@ -64,15 +64,7 @@ The <a href="https://ww2.amstat.org/education/datafest/">ASA DataFest</a> is an 
 
 ## Venue & Food Plans
 
-- **Friday Dinner:** Pizza (budget \$300), plus coffee & refreshments.
-- **Saturday:**
-  - Breakfast: Possible arrangement with Dining Hall.
-  - Lunch: Chipotle or similar.
-  - Dinner: On your own (exploration).
-  - Snack Drops & Coffee throughout the day.
-- **Sunday:**
-  - Brunch at Hartness Pavilion before final presentations.
-  - **Action Item:** Contact Bon Appetit for brunch catering & cost.
+- **Coming Soon!!!**
 
 ---
 
@@ -86,10 +78,7 @@ The <a href="https://ww2.amstat.org/education/datafest/">ASA DataFest</a> is an 
 
 ## Schedule & Locations
 
-- **Main Work Areas:** Johns and Furman Hall
-  - Check with FUPO to keep halls open until at least 10 PM.
-  - Patio may be used for announcements and food (Facilities fee: \$40).
-- **Hartness Pavilion:** Reserved for Sunday Brunch and final presentations.
+- **Coming Soon!**
 
 If you need more details on **where to go** on campus, please see our 
 [Building Info]({{ site.baseurl }}/DataFest25/building-info) page or 

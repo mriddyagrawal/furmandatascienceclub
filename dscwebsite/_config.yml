@@ -23,8 +23,8 @@ email: shrepr2@furman.edu patedi2@furman.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Your one stop resource for everything Data Science at Furman: Project sponserships, Inspiration, Competitions. 
   Email us for any query.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/~magrawal" # the subpath of your site, e.g. /blog
+url: "cs.furman.edu" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
